@@ -12,4 +12,4 @@
 ## 진행 현황
 | 주차 | 내용 | 산출물 |
 |---|---|---|
-| W1 | GitHub · AI 도구 · HTML/CSS | (링크) |
+| W1 | GitHub · AI 도구 · HTML/CSS | https://github.com/Seunghyun-Jeong/portfolio |
