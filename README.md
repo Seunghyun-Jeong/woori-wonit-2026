@@ -5,9 +5,9 @@
 
 ## 배우는 것
 - 프론트엔드: HTML/CSS, JavaScript, React
-- 데이터베이스: MySQL, 정규화, 쿼리 최적화
-- 백엔드: Java, Spring Boot, REST API
-- 보안·인프라: Spring Security, Docker, AWS
+- 데이터베이스: MySQL, ERD, 정규화, 쿼리 최적화
+- 백엔드: Java, Spring Boot, JPA, REST API, Spring AI
+- 보안·인프라: Spring Security, JWT, Docker, Linux, AWS
 
 ## 진행 현황
 | 주차 | 내용 | 산출물 |
@@ -19,3 +19,8 @@
 | W5 | SQL 심화 · 우리카드 데이터 분석 · ERD | |
 | W6 | 정규화 · Java 기초 | |
 | W7 | Java OOP · Gradle · Lombok · JDBC | |
+| W8 | Spring Boot · JPA · Swagger · Logging · 예외 처리 | |
+| W9 | Spring AI 에이전트 · Spring Security · JWT | |
+| W10 | AX 해커톤 | https://github.com/andrewmh342-ops/won_take_hackathon |
+| W11 | Docker · Linux | |
+| W12 | AWS(RDS · EC2 · S3) · EC2 오토스케일링 | |
